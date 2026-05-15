@@ -1,4 +1,10 @@
-## Hi there 👋
+
+Hello , I'm Kalpana 👋
+passionate about building real-world applications.
+
+🔨 Currently improving: Crisis - AI Emergency Response System  
+🌐 Deployed at: crisis-three.vercel.app  
+🛠️ Tech: React, TypeScript, Firebase, Tailwind CSS
 
 <!--
 **Kalpana3007/Kalpana3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
