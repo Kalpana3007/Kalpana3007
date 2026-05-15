@@ -1,5 +1,5 @@
 
-#Hello , I'm Kalpana 👋
+## Hello , I'm Kalpana 👋
 passionate about building real-world applications.
 
 🔨 Currently improving: Crisis - AI Emergency Response System  
@@ -20,8 +20,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ## Connect with me
 
-- LinkedIn: [Kalpana Naikodi](https://www.linkedin.com/in/kalpana-naikodi-590b42380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<p align="left">
+  <a href="https://github.com/Kalpana3007/Kalpana3007" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    alt="GitHub" width="40" height="40"/>
+  </a>
 
-- Email:naikodikalpana07@gmail.com
+  <a href="https://www.linkedin.com/in/kalpana-naikodi-590b42380" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <a href="mailto:naikodikalpana07@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+    alt="Email" width="40" height="40"/>
+  </a>
+</p>
