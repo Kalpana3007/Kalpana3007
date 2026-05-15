@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Connect with me
+
+- LinkedIn: [Kalpana Naikodi](https://www.linkedin.com/in/kalpana-naikodi-590b42380?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+- Email:naikodikalpana07@gmail.com
