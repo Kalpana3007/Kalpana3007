@@ -62,4 +62,23 @@
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
 
 </div>
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kalpana-naikodi-590b42380?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalpana3007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikodikalpana07@gmail.com)
+
+</div>
+
+---
+
+<div>
+
+⭐ <i>If you like my profile, consider giving a star to my repos!</i> ⭐
+
+</div>
 
