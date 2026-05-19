@@ -38,8 +38,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<div align="center">
 
+### 🔥 My Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kalpana3007&theme=tokyonight&hide_border=true)](https://github.com/Kalpana3007)
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
+### 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalpana3007&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana3007&theme=tokyonight&hide_border=true)
+</div>
