@@ -30,7 +30,7 @@
 -👯 Looking to collaborate on <b>Web Dev Projects</b><br/>
 -💬 Ask me about <b>HTML, CSS, JavaScript, React</b><br/>
 -🏆 Built **Crisis** — AI emergency response system at **Hack2Skill Hackathon**
--🔭 I'm currently working on **Web Development + AI Projects**
+- 🔭 I'm currently working on **Web Development + AI Projects**
 
 
 </td>
