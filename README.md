@@ -40,16 +40,23 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"> <h2>🔥 My Streak</h2></div>
+ <h2>🔥 My Streak</h2>
+<div align = "centre"> 
+  
 ![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana3007&theme=tokyonight&hide_border=true)
 
+</div>
 
-<div align="center"><h2> 🎯  My Stats</h2></div>
+<h2> 🎯  My Stats</h2>
+<div align = "centre">
 
  ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
 
+</div>
 
-<div align="center"><h2> 📊Top Languages</h2> </div>
+<h2> 📊Top Languages</h2> 
+<div align = "centre">
 
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
 
+</div>
