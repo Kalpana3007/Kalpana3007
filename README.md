@@ -25,8 +25,8 @@
 
 <br/><br/>
 
-🔭 I'm currently working on <b>Web Development</b><br/>
-🌱 I'm currently learning <b>React & MERN Stack</b><br/>
+🔭 I'm currently learning <b>Web Development & React & MERN Stack</b><br/>
+🌱 I'm currently working on <b>Java DSA</b><br/>
 👯 Looking to collaborate on <b>Web Dev Projects</b><br/>
 💬 Ask me about <b>HTML, CSS, JavaScript, React</b><br/>
 
