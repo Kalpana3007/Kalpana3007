@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6A0DAD&height=200&section=header&text=Kalpana+Naikodi&fontSize=60&animation=twinkling&fontColor=FFFFFF&desc=Passionate+Web+Developer+from+India&descSize=18&descAlignY=75&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6A0DAD&height=200&section=header&text=Kalpana+Naikodi+Btech+in+AI+&+Data+Science&fontSize=60&animation=twinkling&fontColor=FFFFFF&desc=Passionate+Web+Developer+from+India&descSize=18&descAlignY=75&descAlign=50)
 
 <div align="center">
 
