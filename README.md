@@ -37,3 +37,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kalpana3007&theme=tokyonight)](https://git.io/streak-stats)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?Kalpana3007=yourusername&show_icons=true&theme=tokyonight)
