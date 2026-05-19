@@ -41,21 +41,21 @@ Here are some ideas to get you started:
 
 
  <h2>🔥 My Streak</h2>
-<div align = "centre"> 
+<div align = "center"> 
   
 ![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana3007&theme=tokyonight&hide_border=true)
 
 </div>
 
 <h2> 🎯  My Stats</h2>
-<div align = "centre">
+<div align = "center">
 
  ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
 
 </div>
 
 <h2> 📊Top Languages</h2> 
-<div align = "centre">
+<div align = "center">
 
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
 
