@@ -17,7 +17,7 @@
 <tr>
 <td valign="top" width="60%">
 
-<h3>A passionate Web Developer </h3>
+<h3>Passionate about building really world apps</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Kalpana3007&color=blueviolet&style=flat"/>
 <img src="https://img.shields.io/github/followers/Kalpana3007?style=flat&color=blue&logo=github"/>
