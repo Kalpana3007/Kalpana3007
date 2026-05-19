@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 ### 🎯  My Stats
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
 ## 📊Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&theme=tokyonight&hide_border=true&layout=compact)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kalpana3007&theme=tokyonight&layout=compact)
+
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
 </div>
