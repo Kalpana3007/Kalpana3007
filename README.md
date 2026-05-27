@@ -35,7 +35,12 @@
 </td>
 <td valign="top" width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/🎓%20VESIT%20Mumbai-BTech%20AI%20%26%20Data%20Science-A855F7?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/👩‍💻%20Student-Batch%202025--2029-blue?style=for-the-badge"/>
+</div>
 
 </td>
 </tr>
