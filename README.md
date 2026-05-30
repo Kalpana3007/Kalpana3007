@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 <b>Hi There!</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=✨+Kalpana+Naikodi+✨;🎓+BTech+in+AI+and+Data+Science;🏫+VESIT+Mumbai;💻+Future+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=✨+Kalpana+Naikodi+✨;🎓+BTech+in+AI+and+Data+Science;🏫+VESIT+Mumbai;)](https://git.io/typing-svg)
 
 </div>
 <h1> 🌈Hi, I am Kalpana Naikodi</h1>
