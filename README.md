@@ -63,12 +63,7 @@
 
 </div>
 
-## 📊 Top Languages
-<div align="center">
 
-![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight)
-
-</div>
 ---
 
 ## 🌐 Connect with Me
@@ -85,7 +80,7 @@
 
 <div>
 
-⭐ <i>If you like my profile, consider giving a star to my repos!</i> ⭐
+⭐ <i>Thankyou !</i> ⭐
 
 </div>
 
